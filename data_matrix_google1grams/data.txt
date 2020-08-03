@@ -1,0 +1,3 @@
+path: data_matrix_google1grams.RData
+extension: RData
+type: files
