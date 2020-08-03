@@ -2,3 +2,6 @@
   name: data_matrix_google1grams
   extension: RData
   type: files
+- path: data_BTm_bms
+  name: data_BTm_bms
+  extension: rda
